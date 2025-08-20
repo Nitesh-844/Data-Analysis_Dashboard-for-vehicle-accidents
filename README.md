@@ -29,7 +29,8 @@ The road accident dashboard provides the following KPIs and insights:
 
 The road accident dashboard is designed to provide insights to the following stakeholders: Ministry of Transport, Road Transport Department, Police Force, Emergency Service Department, Road Safety Corps, Transport Operators, Traffic Management Agencies, Public, Media. These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
 
+# Dashboard
+https://github.com/Nitesh-844/Data-Analysis_Dashboard-for-vehicle-accidents/edit/main/README.mdDashboard of Vehicel  Road accident
 
 
-![WhatsApp Image 2025-06-18 at 08 15 35](https://github.com/user-attachments/assets/7d238649-b473-41e6-adaf-ba1a6b092864)
 
