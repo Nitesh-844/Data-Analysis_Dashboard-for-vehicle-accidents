@@ -31,4 +31,5 @@ The road accident dashboard is designed to provide insights to the following sta
 
 
 
+![WhatsApp Image 2025-06-18 at 08 15 35](https://github.com/user-attachments/assets/7d238649-b473-41e6-adaf-ba1a6b092864)
 
